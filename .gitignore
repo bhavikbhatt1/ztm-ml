@@ -12,3 +12,7 @@ env
 # Model files
 *.pkl
 *.joblib
+
+data
+images
+slides
